@@ -1,0 +1,44 @@
+h1{
+    color: rgb(12, 7, 39);
+}
+h3{
+    color: rgb(12, 7, 39); 
+}
+h4{
+    color: brown;
+}
+body{
+    background-image: url(https://lumiere-a.akamaihd.net/v1/images/sa_pixar_virtualbg_toystory_16x9_8461039f.jpeg);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-attachment: fixed;
+    display: block;
+    text-align: center;
+    justify-content: flex-end;
+}
+img{
+   width: 400px;
+}
+div{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: rgb(224, 155, 64);
+    padding: 50px;
+    border: 10px solid rgb(206, 116, 14);
+}
+
+#spanId{
+    font-size: 28px;
+    margin: 50px;
+    color: rgb(12, 7, 27);
+}

@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: rgb(46, 40, 40);
 }
 
 p {
@@ -8,5 +8,5 @@ p {
 }
 
 .amarillo {
-  color: yellow;
+  color: rgb(238, 238, 14);
 }
