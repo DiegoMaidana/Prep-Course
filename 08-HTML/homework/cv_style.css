@@ -1,0 +1,44 @@
+body{
+  background-color: rgb(225, 228, 230);
+}
+h1{
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  border-radius: 5%;
+  background-color: rgb(52, 71, 155);
+}
+h2{
+  font-size: 25px;
+  color: rgb(6, 11, 75);
+  background-color: bisque;
+}
+
+h3{
+  font-size: 20px;
+  background-color: bisque;
+}
+.TituloDatos{
+  font-size: 20px;
+  font-weight: bolder;
+  background-color: bisque;
+}
+ul{
+  font-size: 16px;
+  font-weight: lighter;
+  background-color: rgb(176, 210, 248);
+}
+p{
+  font-size: 16px;
+  font-weight: lighter;
+  background-color: rgb(176, 210, 248);
+}
+img{
+  border-radius: 50%;
+  border: 10px solid rgb(120, 207, 180);
+  position: relative;
+  left: 10px;
+}
+#imagen1{
+background-color: rgb(29, 92, 165);
+}
