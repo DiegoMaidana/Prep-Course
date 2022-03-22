@@ -1,0 +1,6 @@
+///Explicaciones de conceptos///
+Variables:  Es una forma de almacenar el valor de algo para usar más tarde
+String: Son bloques de codigos (Textos, números lo que sea que se ponga dentro de comillas "")
+return: Sirve para finalizar la ejecución de una función y devolver el valor especificado en la misma
+if: Controla el flujo y se encarga de las comparaciones de los datos que le hemos proporcionado 
+true & false: Sirven para confirmar los datos ingresados (true: verdaderos, false: falso)
