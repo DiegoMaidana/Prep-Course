@@ -1,0 +1,6 @@
+///Explicaciones de conceptos///
+Objetos: Un objeto en Javascript es como un objeto literal que tiene tipos y según eso tiene sus funciones (Ej:Obj-Anima /tipo-Perro /func-ladrar )
+Propiedades: Podriamos definir como las caracteristicas en particular que tiene un objeto según su origen (color, tamaño,raza, etc)
+Métodos:Podriamos definir como las funciones que realiza un objeto según su origen (ladrar, saludar, cantar, etc)
+Bucle for…in: Sirve para recorrer las propiedades y métodos de un objeto
+Notación de puntos vs notación de corchetes: Son dos maneras de acceder a las propiedades y métodos de los objetos
