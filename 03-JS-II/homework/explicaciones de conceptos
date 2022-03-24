@@ -1,0 +1,5 @@
+///Explicaciones de conceptos///
+for: El bucle fro se utiliza para repetir códigos o instrucciones varias de veces y asi no tener que escribir una a una
+&&: Operador lógico que sirve para evaluar dos instancias y determinar si ambas son verdaderas
+||:Operador lógico que sirve para evaluar dos instancias y determinar si uno de ellas es verdadera
+!: Operador lógico que mas comunmente le podemos llamar 'Signo de NO ES IGUAL', ya que retorna siempre lo contrario 
