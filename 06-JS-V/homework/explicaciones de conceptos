@@ -1,0 +1,3 @@
+///Explicaciones de conceptos///
+prototype: Seria como un molde original de algo en este caso de un objeto 
+Constructors (de Clases):Se encarga de construir algo en este caso se encarga de inicializar un objeto, es una una función especial que crea ese objeto.
